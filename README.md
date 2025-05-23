@@ -1,1 +1,2 @@
-Hello, this is a message from my cloned repository
+The objectives of this task is merging and branching
+modification in a main branch
